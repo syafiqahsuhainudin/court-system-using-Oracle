@@ -1,0 +1,8 @@
+--------------------------------------------------------
+--  File created - Thursday-June-13-2019   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Sequence BOOK_SQ
+--------------------------------------------------------
+
+   CREATE SEQUENCE  "COURT"."BOOK_SQ"  MINVALUE 1 MAXVALUE 40000000 INCREMENT BY 1 START WITH 5 NOCACHE  NOORDER  NOCYCLE ;

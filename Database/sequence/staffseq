@@ -1,0 +1,8 @@
+--------------------------------------------------------
+--  File created - Thursday-June-13-2019   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Sequence STAFFID_SEQ
+--------------------------------------------------------
+
+   CREATE SEQUENCE  "COURT"."STAFFID_SEQ"  MINVALUE 1 MAXVALUE 9999999999999999999999999999 INCREMENT BY 1 START WITH 6 NOCACHE  NOORDER  NOCYCLE ;
